@@ -1,0 +1,111 @@
+transaction_id,user_id,product,category,amount,timestamp
+1,101,Laptop,Electronics,55000,2025-02-01 10:15:00
+2,102,Phone,Electronics,25000,2025-02-01 11:20:00
+3,103,Shirt,Fashion,1500,2025-02-02 09:10:00
+4,104,Shoes,Fashion,3200,2025-02-02 12:45:00
+5,105,Mixer,Home Appliances,4800,2025-02-03 14:30:00
+6,101,Headphones,Electronics,2200,2025-02-03 16:00:00
+7,106,Book,Education,600,2025-02-04 10:05:00
+8,107,Chair,Furniture,7200,2025-02-04 13:50:00
+9,108,Watch,Fashion,5400,2025-02-05 17:25:00
+10,109,Tablet,Electronics,30000,2025-02-06 18:40:00
+11,110,Camera,Electronics,42000,2025-02-07 09:15:00
+12,111,Backpack,Fashion,1800,2025-02-07 10:40:00
+13,112,Refrigerator,Home Appliances,38000,2025-02-07 12:10:00
+14,113,Notebook,Education,120,2025-02-07 14:05:00
+15,114,Sofa,Furniture,25000,2025-02-07 16:20:00
+16,115,Smartwatch,Electronics,15000,2025-02-08 09:30:00
+17,116,Jeans,Fashion,2200,2025-02-08 11:00:00
+18,117,Microwave,Home Appliances,8500,2025-02-08 13:25:00
+19,118,Desk,Furniture,9800,2025-02-08 15:45:00
+20,119,Keyboard,Electronics,1800,2025-02-08 17:10:00
+21,120,Monitor,Electronics,12000,2025-02-09 09:05:00
+22,121,Tshirt,Fashion,900,2025-02-09 10:30:00
+23,122,Washing Machine,Home Appliances,27000,2025-02-09 12:00:00
+24,123,Pen,Education,50,2025-02-09 14:20:00
+25,124,Bookshelf,Furniture,5600,2025-02-09 16:35:00
+26,125,Printer,Electronics,7500,2025-02-10 09:50:00
+27,126,Jacket,Fashion,3500,2025-02-10 11:10:00
+28,127,Induction Stove,Home Appliances,3000,2025-02-10 13:40:00
+29,128,Study Table,Furniture,8200,2025-02-10 15:15:00
+30,129,Router,Electronics,2500,2025-02-10 17:25:00
+31,130,Speaker,Electronics,4500,2025-02-11 09:20:00
+32,131,Saree,Fashion,5400,2025-02-11 11:45:00
+33,132,Air Conditioner,Home Appliances,42000,2025-02-11 13:10:00
+34,133,Calculator,Education,800,2025-02-11 15:30:00
+35,134,Bed,Furniture,22000,2025-02-11 17:50:00
+36,135,Power Bank,Electronics,1200,2025-02-12 09:35:00
+37,136,Sandals,Fashion,1600,2025-02-12 10:55:00
+38,137,Blender,Home Appliances,2800,2025-02-12 13:05:00
+39,138,Curtains,Furniture,3400,2025-02-12 15:40:00
+40,139,Earbuds,Electronics,3200,2025-02-12 18:00:00
+41,140,Hard Disk,Electronics,6500,2025-02-13 09:15:00
+42,141,Cap,Fashion,500,2025-02-13 10:35:00
+43,142,Toaster,Home Appliances,2100,2025-02-13 12:20:00
+44,143,Lamp,Furniture,1700,2025-02-13 14:45:00
+45,144,Graphics Card,Electronics,55000,2025-02-13 17:30:00
+46,145,Formal Shoes,Fashion,4200,2025-02-14 09:25:00
+47,146,Vacuum Cleaner,Home Appliances,9200,2025-02-14 11:55:00
+48,147,Pillow,Furniture,800,2025-02-14 13:35:00
+49,148,SSD,Electronics,7200,2025-02-14 16:10:00
+50,149,Scarf,Fashion,700,2025-02-14 18:20:00
+51,150,Water Purifier,Home Appliances,15000,2025-02-15 09:40:00
+52,151,Cupboard,Furniture,18000,2025-02-15 11:10:00
+53,152,Mouse,Electronics,900,2025-02-15 13:00:00
+54,153,Sunglasses,Fashion,2500,2025-02-15 15:25:00
+55,154,Geyser,Home Appliances,7800,2025-02-15 17:45:00
+56,155,Table Fan,Home Appliances,2200,2025-02-16 09:30:00
+57,156,TV,Electronics,48000,2025-02-16 11:50:00
+58,157,Heels,Fashion,3100,2025-02-16 13:15:00
+59,158,Drawer,Furniture,6200,2025-02-16 15:40:00
+60,159,Projector,Electronics,35000,2025-02-16 18:05:00
+61,160,Notebook Set,Education,300,2025-02-17 09:20:00
+62,161,Track Pants,Fashion,1900,2025-02-17 10:45:00
+63,162,Air Fryer,Home Appliances,9500,2025-02-17 12:30:00
+64,163,Coffee Table,Furniture,8700,2025-02-17 14:10:00
+65,164,Drone,Electronics,65000,2025-02-17 16:55:00
+66,165,Textbook,Education,950,2025-02-18 09:35:00
+67,166,Iron Box,Home Appliances,1800,2025-02-18 11:15:00
+68,167,Wardrobe,Furniture,30000,2025-02-18 13:40:00
+69,168,Game Console,Electronics,42000,2025-02-18 15:50:00
+70,169,Belt,Fashion,1200,2025-02-18 17:20:00
+71,170,Hair Dryer,Home Appliances,2100,2025-02-19 09:10:00
+72,171,Books,Education,600,2025-02-19 10:30:00
+73,172,TV Stand,Furniture,7400,2025-02-19 12:45:00
+74,173,Smartphone,Electronics,28000,2025-02-19 14:20:00
+75,174,Coat,Fashion,4500,2025-02-19 16:40:00
+76,175,Ceiling Fan,Home Appliances,3200,2025-02-20 09:00:00
+77,176,Tablet Cover,Electronics,1500,2025-02-20 10:20:00
+78,177,Mattress,Furniture,19000,2025-02-20 12:30:00
+79,178,Sweater,Fashion,2700,2025-02-20 14:50:00
+80,179,Camera Lens,Electronics,22000,2025-02-20 17:10:00
+81,180,Stapler,Education,150,2025-02-21 09:25:00
+82,181,Pressure Cooker,Home Appliances,3200,2025-02-21 11:35:00
+83,182,Side Table,Furniture,4500,2025-02-21 13:15:00
+84,183,Laptop Bag,Fashion,2100,2025-02-21 15:45:00
+85,184,Webcam,Electronics,2800,2025-02-21 17:30:00
+86,185,Blanket,Furniture,2600,2025-02-22 09:40:00
+87,186,Headset,Electronics,3500,2025-02-22 11:00:00
+88,187,Notebook Pack,Education,400,2025-02-22 13:20:00
+89,188,Juicer,Home Appliances,3700,2025-02-22 15:55:00
+90,189,Sports Shoes,Fashion,3900,2025-02-22 17:40:00
+91,190,Extension Board,Electronics,900,2025-02-23 09:10:00
+92,191,Wall Clock,Furniture,1500,2025-02-23 11:25:00
+93,192,Handbag,Fashion,2800,2025-02-23 13:40:00
+94,193,Charger,Electronics,800,2025-02-23 15:10:00
+95,194,Air Cooler,Home Appliances,12000,2025-02-23 17:20:00
+96,195,Whiteboard,Education,1800,2025-02-24 09:35:00
+97,196,Dining Table,Furniture,35000,2025-02-24 11:50:00
+98,197,Smart TV,Electronics,52000,2025-02-24 13:30:00
+99,198,Gloves,Fashion,600,2025-02-24 15:40:00
+100,199,Rice Cooker,Home Appliances,4500,2025-02-24 17:55:00
+101,200,Tripod,Electronics,1800,2025-02-25 09:15:00
+102,201,Wall Shelf,Furniture,3200,2025-02-25 11:25:00
+103,202,Sandwich Maker,Home Appliances,2500,2025-02-25 13:45:00
+104,203,Diary,Education,300,2025-02-25 15:10:00
+105,204,Formal Shirt,Fashion,2100,2025-02-25 17:35:00
+106,205,VR Headset,Electronics,38000,2025-02-26 09:30:00
+107,206,Carpet,Furniture,5200,2025-02-26 11:45:00
+108,207,Electric Kettle,Home Appliances,1800,2025-02-26 13:20:00
+109,208,School Bag,Education,2200,2025-02-26 15:55:00
+110,209,Bluetooth Speaker,Electronics,4800,2025-02-26 17:10:00
